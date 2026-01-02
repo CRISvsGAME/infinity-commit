@@ -2,7 +2,7 @@
 
 ## Releases
 
-### 1.0.0
+### 1.0.1
 
 ```
 Usage: infinity-commit [-h] -s <start> -e <end> -t <step> -p <path>
